@@ -4,7 +4,6 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "prettier": "prettier --write './src/**/*.ts' --config",
     "lint": "eslint src/*.ts",
     "lint:f": "eslint src/*.ts --fix",
     "start": "npx nodemon src/index.ts",
