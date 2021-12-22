@@ -6,6 +6,7 @@
   "scripts": {
     "cpx": "cpx \"src/full/*.jpg\" dist/full",
     "build": "npx tsc && cpx \"src/full/*.jpg\" dist/full",
+    "prettier": "prettier --write \"./src/**/*.ts\" --config",
     "lint": "eslint src/*.ts",
     "lint:f": "eslint src/*.ts --fix",
     "start": "npx nodemon src/index.ts",
