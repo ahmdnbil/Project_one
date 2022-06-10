@@ -9,14 +9,14 @@ first of all i have made my configuration to package.json and add my dependience
 I'have also used FS module for creating new folders and files to save any image has been resized
 
 how to run the server:
-1-first of all you need to install the package from package.json:
-npm install
-2-you can check the functions by usin jasmine for unit testing:
-npm run jasmine
-3-you can build the project by using the following syntax:
-npm run build
+1. first of all you need to install the package from package.json:
+`npm install`
+2. you can check the functions by usin jasmine for unit testing:
+`npm run jasmine`
+3. you can build the project by using the following syntax:
+`npm run build`
 
-4-by using the following syntax in command line it will run from src folder:
+4. by using the following syntax in command line it will run from src folder:
 npm run start
 the server will work at port 3000 you can go to your browser and write the following:
 http://localhost:3000/api/image
