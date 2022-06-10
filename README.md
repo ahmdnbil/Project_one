@@ -1,10 +1,10 @@
 first of all i have made my configuration to package.json and add my dependiences and dev dependencies like:
-1-Jasmine fou unit testing all my functions
-2-prettier for formating my code
-3-eslint for finding errors
-4-express to create the server
-5-sharp for resizing my images
-6-i'have used cpx to make a copy of (full) folder which contain the images to and put it into dist folder
+1- Jasmine fou unit testing all my functions
+2- prettier for formating my code
+3- eslint for finding errors
+4- express to create the server
+5- sharp for resizing my images
+6- i'have used cpx to make a copy of (full) folder which contain the images to and put it into dist folder
 
 I'have also used FS module for creating new folders and files to save any image has been resized
 
